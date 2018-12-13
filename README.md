@@ -1,5 +1,6 @@
-Many upgrades give player different effects, e.g. trishot.
-There is a boss or 2 at wave 10 or something, I forget.
+- Many upgrades give player different effects, e.g. trishot.
+- There is a boss or 2 at wave 10 or something, I forget.
+- You can zoom in and out.
 
 ![1](http://imgs.fyi/img/6uv9.png)
 ![2](http://imgs.fyi/img/6uvb.png)
